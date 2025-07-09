@@ -1,0 +1,3 @@
+D:/BLOGGING PLATFORM/build/CMakeFiles/blog.dir
+D:/BLOGGING PLATFORM/build/CMakeFiles/ALL_BUILD.dir
+D:/BLOGGING PLATFORM/build/CMakeFiles/ZERO_CHECK.dir

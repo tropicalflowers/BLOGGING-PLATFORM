@@ -1,0 +1,13 @@
+include/crow/
+vcpkg/
+build/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.vcxproj*
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+.vscode/
