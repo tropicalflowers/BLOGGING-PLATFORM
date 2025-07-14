@@ -9,3 +9,4 @@ set(CMAKE_TOOLCHAIN_FILE "${CMAKE_SOURCE_DIR}/vcpkg/scripts/buildsystems/vcpkg.c
 include_directories("${CMAKE_SOURCE_DIR}/vcpkg/installed/x64-windows/include")
 
 add_executable(blog main.cpp)
+include_directories("D:/BLOGGING PLATFORM/include")

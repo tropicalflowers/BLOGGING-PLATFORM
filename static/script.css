@@ -1,0 +1,29 @@
+.tag-suggestion {
+    display: inline-block;
+    background-color: #eef;
+    color: #333;
+    padding: 4px 8px;
+    margin: 4px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+body {
+  background: #fffafc;
+  font-family: "Segoe UI", sans-serif;
+  color: #2c2c2c;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 28px;
+  color: #5a189a;
+}
+
+a {
+  color: #6b46c1;
+}
+
+a:hover {
+  text-decoration: underline;
+}
